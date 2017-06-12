@@ -1,0 +1,7 @@
+node_modules
+dist/bundle.js
+dist/style.css
+*.log
+*.map
+.DS_Store
+.editorconfig
